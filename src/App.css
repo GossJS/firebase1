@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+table {
+  zoom: 133%;
+  width: 99%
+}
+
+td {
+  padding: 5px;
+  border: solid 2px silver;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
