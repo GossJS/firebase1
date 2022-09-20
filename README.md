@@ -1,7 +1,13 @@
 Папка build содержит всё для папки public
 
 
-
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
